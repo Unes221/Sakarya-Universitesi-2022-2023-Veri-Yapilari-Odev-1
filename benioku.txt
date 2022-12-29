@@ -1,0 +1,17 @@
+FONKSİYON TUŞLARI
+
+c = Bir düğüm ileri gider
+z = Bir düğüm geri gider
+d = Sekizli bir sayfa ileri gider
+a = Sekizli bir sayfa geri gider
+p = Gösterilen satır listesini siler
+k = Gösterilen satır listesinden rastgele düğüm siler
+b = Programı kapatır
+
+DİKKAT EDİLMESİ GEREKENLER
+
+Atılan veriler dosyası .txt uzantılı olmalı
+Atılan veriler dosyası G211210064 dosyasında olmalı
+Verilerin tam sayı ve aralıklar bir boşluk olmalı
+
+
